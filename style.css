@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: aquamarine;
+  }
+  #timeDisplay {
+    font-size: 3em;
+    margin: 20px;
+    color: brown;
+  }
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+  }
+  input{
+    height: 30px;
+    width: 100px;
+    text-align: center;
+  }
